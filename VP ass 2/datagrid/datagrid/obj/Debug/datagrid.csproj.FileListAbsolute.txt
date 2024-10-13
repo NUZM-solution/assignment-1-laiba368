@@ -1,0 +1,22 @@
+C:\Users\Laiba\Desktop\datagrid\datagrid\obj\Debug\datagrid.csproj.AssemblyReference.cache
+C:\Users\Laiba\Desktop\datagrid\datagrid\obj\Debug\datagrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Laiba\Desktop\datagrid\datagrid\obj\Debug\datagrid.Properties.Resources.resources
+C:\Users\Laiba\Desktop\datagrid\datagrid\obj\Debug\datagrid.csproj.GenerateResource.cache
+C:\Users\Laiba\Desktop\datagrid\datagrid\obj\Debug\datagrid.csproj.CoreCompileInputs.cache
+C:\Users\Laiba\Desktop\datagrid\datagrid\bin\Debug\datagrid.exe.config
+C:\Users\Laiba\Desktop\datagrid\datagrid\bin\Debug\datagrid.exe
+C:\Users\Laiba\Desktop\datagrid\datagrid\bin\Debug\datagrid.pdb
+C:\Users\Laiba\Desktop\datagrid\datagrid\obj\Debug\datagrid.Form1.resources
+C:\Users\Laiba\Desktop\datagrid\datagrid\obj\Debug\datagrid.exe
+C:\Users\Laiba\Desktop\datagrid\datagrid\obj\Debug\datagrid.pdb
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\bin\Debug\datagrid.exe.config
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\bin\Debug\datagrid.exe
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\bin\Debug\datagrid.pdb
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\obj\Debug\datagrid.csproj.AssemblyReference.cache
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\obj\Debug\datagrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\obj\Debug\datagrid.Form1.resources
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\obj\Debug\datagrid.Properties.Resources.resources
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\obj\Debug\datagrid.csproj.GenerateResource.cache
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\obj\Debug\datagrid.csproj.CoreCompileInputs.cache
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\obj\Debug\datagrid.exe
+C:\Users\Laiba\Desktop\VP ass 2\datagrid\datagrid\obj\Debug\datagrid.pdb
